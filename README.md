@@ -32,6 +32,5 @@ The *Distraction Detection System* is a real-time solution designed to detect dr
 - **Pygame**: For audio playback of alert sounds.  
 
 ## **Installation**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/distraction-detection-system.git
+1. Clone the repository:   
+https://github.com/prateek-1211/Drive-Face-Detection.git
